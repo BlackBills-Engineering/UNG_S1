@@ -1,5 +1,5 @@
 # RS-485
-SERIAL_PORT = "/dev/ttyUSB0"
+SERIAL_PORT = "/dev/ttyS0"
 BAUDRATE    = 9600
 BYTESIZE    = 8
 PARITY      = "E"        # ODD parity
